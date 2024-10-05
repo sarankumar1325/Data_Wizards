@@ -59,6 +59,9 @@ The deep learning model is built using a **CNN architecture** to classify whethe
 ## Results
 The CNN model shows excellent performance in detecting autism with image data. The Intel OneAPI extension increases training speed significantly.
 
+![ig -2 ](https://github.com/user-attachments/assets/85bffa91-f743-4506-939d-24667176cef6)
+
+
 
 ## Files
 - `deep_learning.ipynb`: The deep learning notebook implementing the CNN.
