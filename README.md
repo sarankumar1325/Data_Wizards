@@ -25,6 +25,9 @@ The dataset used for training the model is **autism_data.csv**, which contains f
 ## Results
 The model achieves a performance improvement in both accuracy and speed, achieving **87% accuracy** and a **1.73x faster training time** with Intel OneAPI.
 
+![img-1 ](https://github.com/user-attachments/assets/ca2f8265-8f21-48e1-92c1-d1c994dab43e)
+
+
 ## Files
 - `Autism_Detection_with_ML.ipynb`: The notebook for building and training the machine learning model.
 - `autism_data.csv`: The dataset used for training the model.
@@ -55,6 +58,7 @@ The deep learning model is built using a **CNN architecture** to classify whethe
 
 ## Results
 The CNN model shows excellent performance in detecting autism with image data. The Intel OneAPI extension increases training speed significantly.
+
 
 ## Files
 - `deep_learning.ipynb`: The deep learning notebook implementing the CNN.
